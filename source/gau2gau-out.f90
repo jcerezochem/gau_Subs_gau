@@ -8,7 +8,7 @@ program gau2gau_out
     ! Reads input data file from Gaussian caller and
     ! generates a Gaussian input. 
     !
-    ! The progra expects to be called as:
+    ! The program expects to be called as:
     !
     !  gau2gau_out <job1.fchk> <job2.fchk> <output_data> <message_file>
     !
