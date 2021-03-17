@@ -20,7 +20,7 @@ keyword:
 
 # external="gau_Subs_gau.sh job1_rs job2_rs"
 
-where job1_cl and job2_cl are files containing the route section
+where job1_rs and job2_rs are files containing the route section
 for each job.
 
 
